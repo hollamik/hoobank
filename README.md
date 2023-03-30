@@ -7,7 +7,6 @@ forthebadge   forthebadge   forthebadge   GitHub Repo stars   GitHub forks
 TL;DR
 You can fork this repo to modify and make changes of your own.by linking back to Hollamik. Thanks!
 
-Built With
 hoobank is a clone banking app,from {jsmastery} it is fully responsive.
 
 This project was built using these technologies.
