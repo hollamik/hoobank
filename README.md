@@ -36,7 +36,7 @@ Usage Instructions
 Open the project folder and Navigate to /src/components/.
 You will find all the components used and you can edit your information accordingly.
 
-you can navigate through the website with the link: https://6424b06ffa674641a803b33--grand-stoopwafel-e19cd3.netlify.app/
+you can navigate through the website with the link: https://grand-stroopwafel-e19cd3.netlify.app/
 
 Show your support
 Give a ⭐ if you like this website!
